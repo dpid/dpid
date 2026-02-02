@@ -23,7 +23,7 @@ Based in Portland, OR. 20+ years across web gaming, social gaming, VR/AR, and bl
 
 ## What I'm building now
 
-- **[moltbot-voice-bridge](https://github.com/dpid/moltbot-voice-bridge)** — Hands-free voice interface. VAD-based PWA with shared CLI session context, Groq transcription, multi-TTS support. Keyboard ↔ voice handoff.
+- **[openclaw-voice-bridge](https://github.com/dpid/openclaw-voice-bridge)** — Hands-free voice interface. VAD-based PWA with shared CLI session context, Groq transcription, multi-TTS support. Keyboard ↔ voice handoff.
 - **[needs-based-ai](https://github.com/dpid/needs-based-ai)** — Needs-based AI simulation for TypeScript. Agents, desires, advertisement broadcasting. npm package with composable architecture built on command-state-machine.
 - **[command-state-machine](https://github.com/dpid/command-state-machine)** — Command-driven state machine for TypeScript. Foundation layer for the above.
 
