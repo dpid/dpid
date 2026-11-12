@@ -2,7 +2,7 @@
 
 **Cross-domain creative technologist.** Social gaming · VR/AR · Blockchain · AI · Game systems architecture.
 
-Based in Portland, OR. 20+ years across web gaming, social gaming, VR/AR, and blockchain. I build systems, ship products, and make things that run at scale.
+20+ years across web gaming, social gaming, VR/AR, and blockchain. I build systems, ship products, and make things that run at scale.
 
 ---
 
